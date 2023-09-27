@@ -1,5 +1,9 @@
 # Weather Data Analysis
 
+## Overview
+
+This project entails using Python to analyze weather data, aiming to uncover the relationship between weather variables and latitude. The analysis is conducted through two Jupyter notebooks, WeatherPy.ipynb and VacationPy.ipynb, each concentrating on distinct analysis aspects.
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -10,10 +14,6 @@
   - [Heatmap Generation](#heatmap-generation)
   - [Ideal Vacation Spots](#ideal-vacation-spots)
 - [Conclusions](#conclusions)
-
-## Overview
-
-This project entails using Python to analyze weather data, aiming to uncover the relationship between weather variables and latitude. The analysis is conducted through two Jupyter notebooks, WeatherPy.ipynb and VacationPy.ipynb, each concentrating on distinct analysis aspects.
 
 ## WeatherPy.ipynb
 
